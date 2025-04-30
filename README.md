@@ -2,6 +2,8 @@
 
 ## AI-Enhanced Interactive Learning Module (History) for Sri Lankan O/L Students
 
+# Github link: https://github.com/LavinduWelikala/Educhronos
+
 Educhronos is an innovative AI-powered educational platform designed to enhance the History learning experience of Sri Lankan O/L students. Our system integrates modern technology, artificial intelligence, gamification, and collaboration tools to support personalized, engaging, and effective learning outcomes.
 
 ---
